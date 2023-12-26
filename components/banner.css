@@ -1,0 +1,26 @@
+.banner { 
+box-sizing: border-box;
+background-image: url(../foto/recepcionista\ gato\ 4.jpeg);
+background-repeat: no-repeat;
+background-size: 1500px  797px;
+background-position: center;
+height: 800px;
+border-bottom: 10px solid #000;
+padding-top: 50px;
+padding-left: 10px;
+
+}
+
+.banner .wrapper {
+display: flex;
+flex-direction: column;
+width: 640px;
+}
+
+
+
+.banner .navigation {
+ display: flex;
+ flex-direction: row;
+ justify-content: space-around;
+}
